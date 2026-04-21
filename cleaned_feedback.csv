@@ -1,0 +1,293 @@
+response_id,semester,course_code,course_name,faculty_id,student_id,student_name,rating_teaching,rating_content,rating_assessment,comment,sentiment,theme,avg_rating
+R-0065,Autumn 2025,LAW302,Criminal Law,F-A01,MASKED,MASKED,5,4,3,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.0
+R-0199,Autumn 2025,LAW202,Law of Corporate Governance,F-A07,MASKED,MASKED,5,4,4,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0103,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,3,4,4,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.67
+R-0211,Spring 2026,LAW301,Jurisprudence,F-A05,MASKED,MASKED,5,5,3,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.33
+R-0219,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,5,5,4,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.67
+R-0020,Spring 2026,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,1,2,1,Feedback on assignments takes very long to arrive.,Neutral,Assessment,1.33
+R-0115,Spring 2026,LAW202,Law of Corporate Governance,F-A05,MASKED,MASKED,5,5,4,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.67
+R-0040,Autumn 2025,LAW101,Constitutional Law I,F-A06,MASKED,MASKED,5,5,3,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.33
+R-0299,Spring 2026,LAW302,Criminal Law,F-A04,MASKED,MASKED,3,3,2,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.67
+R-0246,Autumn 2025,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,5,4,Slides are well-structured and useful for revision.,Positive,Materials,4.67
+R-0089,Spring 2026,LAW302,Criminal Law,F-A04,MASKED,MASKED,2,2,3,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.33
+R-0288,Spring 2026,LAW201,Corporate Law II,F-A03,MASKED,MASKED,4,4,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.67
+R-0052,Spring 2026,LAW302,Criminal Law,F-A04,MASKED,MASKED,1,3,3,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.33
+R-0095,Spring 2026,LAW302,Criminal Law,F-A01,MASKED,MASKED,5,5,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,5.0
+R-0247,Autumn 2025,LAW102,Contract Law,F-A08,MASKED,MASKED,3,4,4,Meets expectations for a core subject.,Neutral,General Teaching,3.67
+R-0206,Spring 2026,LAW102,Contract Law,F-A03,MASKED,MASKED,4,5,4,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.33
+R-0281,Spring 2026,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,1,3,1,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,1.67
+R-0120,Autumn 2025,LAW201,Corporate Law II,F-A08,MASKED,MASKED,1,3,2,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.0
+R-0145,Autumn 2025,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,4,3,4,Meets expectations for a core subject.,Neutral,General Teaching,3.67
+R-0242,Spring 2026,LAW302,Criminal Law,F-A06,MASKED,MASKED,3,4,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.33
+R-0240,Spring 2026,LAW301,Jurisprudence,F-A02,MASKED,MASKED,5,4,5,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0001,Autumn 2025,LAW302,Criminal Law,F-A02,MASKED,MASKED,2,2,3,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0011,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,5,5,5,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,5.0
+R-0132,Autumn 2025,LAW102,Contract Law,F-A04,MASKED,MASKED,4,3,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.33
+R-0298,Autumn 2025,LAW201,Corporate Law II,F-A02,MASKED,MASKED,3,3,4,Meets expectations for a core subject.,Neutral,General Teaching,3.33
+R-0087,Autumn 2025,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,2,3,2,Class timings often extended without prior notice.,Neutral,Pacing,2.33
+R-0258,Autumn 2025,LAW102,Contract Law,F-A02,MASKED,MASKED,1,2,1,Class timings often extended without prior notice.,Neutral,Pacing,1.33
+R-0137,Spring 2026,LAW302,Criminal Law,F-A02,MASKED,MASKED,1,2,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,1.67
+R-0024,Spring 2026,LAW302,Criminal Law,F-A07,MASKED,MASKED,4,5,3,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,4.0
+R-0210,Autumn 2025,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,4,3,3,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.33
+R-0141,Autumn 2025,LAW201,Corporate Law II,F-A06,MASKED,MASKED,3,3,3,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.0
+R-0228,Autumn 2025,LAW301,Jurisprudence,F-A08,MASKED,MASKED,2,3,2,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.33
+R-0186,Spring 2026,LAW302,Criminal Law,F-A01,MASKED,MASKED,3,3,4,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.33
+R-0259,Spring 2026,LAW101,Constitutional Law I,F-A01,MASKED,MASKED,5,5,3,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.33
+R-0025,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,5,4,5,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0237,Spring 2026,LAW102,Contract Law,F-A07,MASKED,MASKED,5,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0123,Spring 2026,LAW201,Corporate Law II,F-A02,MASKED,MASKED,4,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.33
+R-0149,Autumn 2025,LAW102,Contract Law,F-A03,MASKED,MASKED,3,4,3,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.33
+R-0195,Spring 2026,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,4,4,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.33
+R-0026,Autumn 2025,LAW201,Corporate Law II,F-A08,MASKED,MASKED,3,3,1,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.33
+R-0046,Autumn 2025,LAW102,Contract Law,F-A05,MASKED,MASKED,5,5,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.67
+R-0021,Autumn 2025,LAW201,Corporate Law II,F-A01,MASKED,MASKED,4,5,3,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.0
+R-0010,Autumn 2025,LAW201,Corporate Law II,F-A02,MASKED,MASKED,2,2,3,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,2.33
+R-0241,Spring 2026,LAW102,Contract Law,F-A02,MASKED,MASKED,5,5,4,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,4.67
+R-0198,Spring 2026,LAW301,Jurisprudence,F-A06,MASKED,MASKED,5,4,3,Slides are well-structured and useful for revision.,Positive,Materials,4.0
+R-0067,Autumn 2025,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,2,2,3,Lectures feel rushed; hard to take notes and understand together.,Negative,Materials,2.33
+R-0180,Spring 2026,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,5,5,3,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.33
+R-0004,Autumn 2025,LAW201,Corporate Law II,F-A03,MASKED,MASKED,1,2,2,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,1.67
+R-0202,Autumn 2025,LAW102,Contract Law,F-A06,MASKED,MASKED,5,4,5,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0049,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0009,Spring 2026,LAW201,Corporate Law II,F-A04,MASKED,MASKED,2,2,2,Lectures feel rushed; hard to take notes and understand together.,Negative,Materials,2.0
+R-0007,Spring 2026,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,5,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0216,Spring 2026,LAW301,Jurisprudence,F-A08,MASKED,MASKED,1,2,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,1.67
+R-0276,Spring 2026,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,5,4,3,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.0
+R-0187,Spring 2026,LAW102,Contract Law,F-A01,MASKED,MASKED,5,5,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,5.0
+R-0033,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,4,5,3,Excellent pace and clear handouts every week.,Positive,Materials,4.0
+R-0080,Spring 2026,LAW301,Jurisprudence,F-A06,MASKED,MASKED,2,3,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.67
+R-0061,Spring 2026,LAW201,Corporate Law II,F-A08,MASKED,MASKED,5,5,3,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.33
+R-0184,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,4,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0113,Spring 2026,LAW201,Corporate Law II,F-A06,MASKED,MASKED,5,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0038,Spring 2026,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,5,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0042,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,5,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0283,Autumn 2025,LAW201,Corporate Law II,F-A01,MASKED,MASKED,4,5,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.33
+R-0134,Autumn 2025,LAW301,Jurisprudence,F-A06,MASKED,MASKED,5,5,5,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,5.0
+R-0245,Autumn 2025,LAW302,Criminal Law,F-A06,MASKED,MASKED,5,5,4,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0124,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,3,3,3,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.0
+R-0161,Spring 2026,LAW202,Law of Corporate Governance,F-A05,MASKED,MASKED,4,5,5,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0285,Autumn 2025,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,3,3,1,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,2.33
+R-0139,Autumn 2025,LAW301,Jurisprudence,F-A07,MASKED,MASKED,2,3,2,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.33
+R-0082,Spring 2026,LAW102,Contract Law,F-A08,MASKED,MASKED,2,2,1,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,1.67
+R-0083,Autumn 2025,LAW102,Contract Law,F-A06,MASKED,MASKED,5,5,3,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.33
+R-0018,Spring 2026,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,2,2,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.33
+R-0122,Autumn 2025,LAW201,Corporate Law II,F-A06,MASKED,MASKED,5,4,5,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0171,Autumn 2025,LAW102,Contract Law,F-A03,MASKED,MASKED,4,5,4,Excellent pace and clear handouts every week.,Positive,Materials,4.33
+R-0254,Spring 2026,LAW202,Law of Corporate Governance,F-A01,MASKED,MASKED,5,5,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,5.0
+R-0076,Spring 2026,LAW301,Jurisprudence,F-A07,MASKED,MASKED,5,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0212,Spring 2026,LAW102,Contract Law,F-A08,MASKED,MASKED,3,3,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.0
+R-0271,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,MASKED,MASKED,3,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.33
+R-0016,Autumn 2025,LAW201,Corporate Law II,F-A04,MASKED,MASKED,4,3,4,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.67
+R-0147,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,4,5,4,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.33
+R-0256,Autumn 2025,LAW301,Jurisprudence,F-A07,MASKED,MASKED,3,3,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.0
+R-0155,Autumn 2025,LAW202,Law of Corporate Governance,F-A05,MASKED,MASKED,5,5,5,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,5.0
+R-0034,Spring 2026,LAW301,Jurisprudence,F-A04,MASKED,MASKED,4,4,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.0
+R-0058,Autumn 2025,LAW202,Law of Corporate Governance,F-A05,MASKED,MASKED,4,4,4,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,4.0
+R-0156,Autumn 2025,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,5,5,3,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.33
+R-0039,Spring 2026,LAW302,Criminal Law,F-A08,MASKED,MASKED,1,3,1,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,1.67
+R-0032,Spring 2026,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,5,5,5,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,5.0
+R-0203,Spring 2026,LAW201,Corporate Law II,F-A06,MASKED,MASKED,2,3,1,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.0
+R-0146,Autumn 2025,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,5,3,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0217,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,MASKED,MASKED,1,3,2,Lectures feel rushed; hard to take notes and understand together.,Negative,Materials,2.0
+R-0252,Spring 2026,LAW301,Jurisprudence,F-A01,MASKED,MASKED,4,5,4,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0235,Autumn 2025,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0129,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,2,3,3,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.67
+R-0093,Spring 2026,LAW301,Jurisprudence,F-A05,MASKED,MASKED,5,5,5,Slides are well-structured and useful for revision.,Positive,Materials,5.0
+R-0098,Autumn 2025,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,4,5,3,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.0
+R-0296,Spring 2026,LAW202,Law of Corporate Governance,F-A03,MASKED,MASKED,5,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0097,Autumn 2025,LAW302,Criminal Law,F-A02,MASKED,MASKED,5,5,5,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,5.0
+R-0135,Spring 2026,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,4,3,3,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.33
+R-0230,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0269,Spring 2026,LAW201,Corporate Law II,F-A05,MASKED,MASKED,5,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0070,Autumn 2025,LAW102,Contract Law,F-A02,MASKED,MASKED,1,3,3,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.33
+R-0121,Autumn 2025,LAW102,Contract Law,F-A04,MASKED,MASKED,2,2,2,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,2.0
+R-0243,Spring 2026,LAW201,Corporate Law II,F-A02,MASKED,MASKED,2,3,2,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.33
+R-0112,Spring 2026,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,4,4,4,Slides are well-structured and useful for revision.,Positive,Materials,4.0
+R-0226,Spring 2026,LAW202,Law of Corporate Governance,F-A03,MASKED,MASKED,4,5,3,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.0
+R-0015,Autumn 2025,LAW201,Corporate Law II,F-A07,MASKED,MASKED,5,5,3,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0066,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,5,5,5,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,5.0
+R-0071,Autumn 2025,LAW202,Law of Corporate Governance,F-A07,MASKED,MASKED,4,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.33
+R-0064,Autumn 2025,LAW302,Criminal Law,F-A07,MASKED,MASKED,1,3,3,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.33
+R-0117,Spring 2026,LAW102,Contract Law,F-A07,MASKED,MASKED,5,5,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.67
+R-0140,Spring 2026,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,5,5,4,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0168,Spring 2026,LAW302,Criminal Law,F-A03,MASKED,MASKED,5,5,3,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.33
+R-0274,Autumn 2025,LAW301,Jurisprudence,F-A01,MASKED,MASKED,4,3,3,Course content is as per syllabus.,Neutral,General Teaching,3.33
+R-0284,Spring 2026,LAW102,Contract Law,F-A07,MASKED,MASKED,4,5,4,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.33
+R-0165,Spring 2026,LAW102,Contract Law,F-A08,MASKED,MASKED,3,4,3,Meets expectations for a core subject.,Neutral,General Teaching,3.33
+R-0253,Autumn 2025,LAW302,Criminal Law,F-A04,MASKED,MASKED,4,5,3,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.0
+R-0167,Spring 2026,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,5,5,3,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.33
+R-0069,Autumn 2025,LAW102,Contract Law,F-A08,MASKED,MASKED,3,3,2,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.67
+R-0029,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,4,5,3,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.0
+R-0150,Spring 2026,LAW202,Law of Corporate Governance,F-A07,MASKED,MASKED,4,5,5,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0005,Spring 2026,LAW201,Corporate Law II,F-A06,MASKED,MASKED,1,3,1,Feedback on assignments takes very long to arrive.,Neutral,Assessment,1.67
+R-0075,Autumn 2025,LAW201,Corporate Law II,F-A06,MASKED,MASKED,2,3,1,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.0
+R-0057,Spring 2026,LAW302,Criminal Law,F-A06,MASKED,MASKED,3,4,3,Meets expectations for a core subject.,Neutral,General Teaching,3.33
+R-0227,Spring 2026,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,4,3,3,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.33
+R-0282,Spring 2026,LAW102,Contract Law,F-A08,MASKED,MASKED,5,5,3,Excellent pace and clear handouts every week.,Positive,Materials,4.33
+R-0163,Spring 2026,LAW301,Jurisprudence,F-A07,MASKED,MASKED,3,3,3,Course content is as per syllabus.,Neutral,General Teaching,3.0
+R-0196,Autumn 2025,LAW102,Contract Law,F-A02,MASKED,MASKED,2,3,3,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,2.67
+R-0107,Spring 2026,LAW302,Criminal Law,F-A04,MASKED,MASKED,4,5,5,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.67
+R-0178,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,5,4,5,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.67
+R-0105,Spring 2026,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,4,4,3,Meets expectations for a core subject.,Neutral,General Teaching,3.67
+R-0127,Spring 2026,LAW301,Jurisprudence,F-A03,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0130,Spring 2026,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,5,4,4,Excellent pace and clear handouts every week.,Positive,Materials,4.33
+R-0272,Autumn 2025,LAW102,Contract Law,F-A06,MASKED,MASKED,5,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0264,Autumn 2025,LAW102,Contract Law,F-A05,MASKED,MASKED,4,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0175,Spring 2026,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,3,2,1,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.0
+R-0191,Spring 2026,LAW201,Corporate Law II,F-A07,MASKED,MASKED,3,3,3,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.0
+R-0003,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,4,4,5,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0092,Autumn 2025,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,1,2,1,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,1.33
+R-0014,Autumn 2025,LAW201,Corporate Law II,F-A01,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0223,Spring 2026,LAW102,Contract Law,F-A06,MASKED,MASKED,5,5,4,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.67
+R-0251,Spring 2026,LAW202,Law of Corporate Governance,F-A02,MASKED,MASKED,2,3,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.33
+R-0291,Spring 2026,LAW201,Corporate Law II,F-A02,MASKED,MASKED,2,3,2,Lectures feel rushed; hard to take notes and understand together.,Negative,Materials,2.33
+R-0270,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,2,2,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.0
+R-0074,Spring 2026,LAW202,Law of Corporate Governance,F-A03,MASKED,MASKED,3,4,3,Meets expectations for a core subject.,Neutral,General Teaching,3.33
+R-0197,Spring 2026,LAW301,Jurisprudence,F-A03,MASKED,MASKED,3,2,3,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,2.67
+R-0249,Autumn 2025,LAW302,Criminal Law,F-A06,MASKED,MASKED,1,3,3,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.33
+R-0143,Spring 2026,LAW201,Corporate Law II,F-A02,MASKED,MASKED,4,5,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.33
+R-0183,Autumn 2025,LAW301,Jurisprudence,F-A01,MASKED,MASKED,3,3,4,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.33
+R-0125,Autumn 2025,LAW301,Jurisprudence,F-A06,MASKED,MASKED,4,4,4,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,4.0
+R-0207,Spring 2026,LAW102,Contract Law,F-A03,MASKED,MASKED,2,3,2,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0109,Autumn 2025,LAW301,Jurisprudence,F-A08,MASKED,MASKED,2,2,2,Class timings often extended without prior notice.,Neutral,Pacing,2.0
+R-0099,Spring 2026,LAW301,Jurisprudence,F-A08,MASKED,MASKED,5,5,5,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,5.0
+R-0209,Autumn 2025,LAW301,Jurisprudence,F-A03,MASKED,MASKED,3,3,3,Meets expectations for a core subject.,Neutral,General Teaching,3.0
+R-0036,Autumn 2025,LAW302,Criminal Law,F-A02,MASKED,MASKED,5,5,4,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0214,Spring 2026,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,4,5,5,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0108,Spring 2026,LAW202,Law of Corporate Governance,F-A03,MASKED,MASKED,2,2,2,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.0
+R-0287,Autumn 2025,LAW301,Jurisprudence,F-A07,MASKED,MASKED,2,3,1,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,2.0
+R-0131,Autumn 2025,LAW302,Criminal Law,F-A01,MASKED,MASKED,3,3,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.0
+R-0037,Autumn 2025,LAW102,Contract Law,F-A06,MASKED,MASKED,4,4,3,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.67
+R-0096,Spring 2026,LAW102,Contract Law,F-A07,MASKED,MASKED,2,3,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.33
+R-0047,Spring 2026,LAW301,Jurisprudence,F-A02,MASKED,MASKED,2,2,3,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0188,Autumn 2025,LAW102,Contract Law,F-A03,MASKED,MASKED,3,4,3,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.33
+R-0079,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,MASKED,MASKED,5,5,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.67
+R-0062,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,3,3,3,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,3.0
+R-0031,Autumn 2025,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,3,3,4,Meets expectations for a core subject.,Neutral,General Teaching,3.33
+R-0194,Spring 2026,LAW302,Criminal Law,F-A08,MASKED,MASKED,4,4,3,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,3.67
+R-0022,Spring 2026,LAW101,Constitutional Law I,F-A01,MASKED,MASKED,5,5,5,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,5.0
+R-0222,Spring 2026,LAW101,Constitutional Law I,F-A03,MASKED,MASKED,3,2,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.67
+R-0263,Spring 2026,LAW201,Corporate Law II,F-A07,MASKED,MASKED,5,5,5,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,5.0
+R-0077,Spring 2026,LAW201,Corporate Law II,F-A06,MASKED,MASKED,1,3,1,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,1.67
+R-0277,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,4,3,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.0
+R-0173,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,2,3,2,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,2.33
+R-0265,Spring 2026,LAW301,Jurisprudence,F-A03,MASKED,MASKED,5,5,3,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.33
+R-0159,Autumn 2025,LAW102,Contract Law,F-A03,MASKED,MASKED,3,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.33
+R-0290,Spring 2026,LAW101,Constitutional Law I,F-A03,MASKED,MASKED,5,4,3,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.0
+R-0091,Spring 2026,LAW201,Corporate Law II,F-A05,MASKED,MASKED,5,5,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.67
+R-0090,Spring 2026,LAW102,Contract Law,F-A01,MASKED,MASKED,5,5,3,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.33
+R-0200,Autumn 2025,LAW102,Contract Law,F-A02,MASKED,MASKED,2,3,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.33
+R-0151,Spring 2026,LAW201,Corporate Law II,F-A08,MASKED,MASKED,4,4,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.0
+R-0101,Autumn 2025,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,4,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0157,Autumn 2025,LAW201,Corporate Law II,F-A06,MASKED,MASKED,4,5,3,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.0
+R-0220,Spring 2026,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,1,2,1,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,1.33
+R-0153,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,4,5,3,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.0
+R-0081,Spring 2026,LAW201,Corporate Law II,F-A05,MASKED,MASKED,5,4,4,"Very approachable, clears doubts patiently after class.",Positive,Accessibility,4.33
+R-0231,Autumn 2025,LAW201,Corporate Law II,F-A05,MASKED,MASKED,5,5,4,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,4.67
+R-0136,Spring 2026,LAW102,Contract Law,F-A01,MASKED,MASKED,4,5,5,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.67
+R-0126,Autumn 2025,LAW101,Constitutional Law I,F-A03,MASKED,MASKED,3,2,1,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,2.0
+R-0172,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,5,5,5,Practical assignments helped me understand drafting better.,Neutral,Assessment,5.0
+R-0068,Autumn 2025,LAW302,Criminal Law,F-A01,MASKED,MASKED,1,3,1,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,1.67
+R-0030,Spring 2026,LAW101,Constitutional Law I,F-A01,MASKED,MASKED,5,4,3,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.0
+R-0118,Spring 2026,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,5,5,4,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.67
+R-0224,Spring 2026,LAW301,Jurisprudence,F-A08,MASKED,MASKED,3,4,4,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0084,Autumn 2025,LAW301,Jurisprudence,F-A05,MASKED,MASKED,4,4,4,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,4.0
+R-0094,Spring 2026,LAW101,Constitutional Law I,F-A01,MASKED,MASKED,3,3,3,Meets expectations for a core subject.,Neutral,General Teaching,3.0
+R-0292,Autumn 2025,LAW302,Criminal Law,F-A04,MASKED,MASKED,2,3,2,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.33
+R-0138,Autumn 2025,LAW102,Contract Law,F-A02,MASKED,MASKED,5,5,4,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.67
+R-0236,Spring 2026,LAW101,Constitutional Law I,F-A07,MASKED,MASKED,4,3,3,Course content is as per syllabus.,Neutral,General Teaching,3.33
+R-0027,Autumn 2025,LAW302,Criminal Law,F-A01,MASKED,MASKED,2,3,2,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0148,Spring 2026,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,5,5,3,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0017,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,MASKED,MASKED,2,2,1,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,1.67
+R-0204,Spring 2026,LAW201,Corporate Law II,F-A07,MASKED,MASKED,4,4,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.0
+R-0208,Spring 2026,LAW201,Corporate Law II,F-A04,MASKED,MASKED,4,5,4,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0255,Autumn 2025,LAW202,Law of Corporate Governance,F-A07,MASKED,MASKED,3,4,3,Meets expectations for a core subject.,Neutral,General Teaching,3.33
+R-0193,Autumn 2025,LAW201,Corporate Law II,F-A06,MASKED,MASKED,5,5,5,Slides are well-structured and useful for revision.,Positive,Materials,5.0
+R-0072,Autumn 2025,LAW301,Jurisprudence,F-A02,MASKED,MASKED,5,4,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.33
+R-0053,Autumn 2025,LAW302,Criminal Law,F-A06,MASKED,MASKED,2,2,1,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,1.67
+R-0297,Spring 2026,LAW201,Corporate Law II,F-A05,MASKED,MASKED,2,3,2,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0181,Autumn 2025,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,4,4,3,Meets expectations for a core subject.,Neutral,General Teaching,3.67
+R-0002,Spring 2026,LAW302,Criminal Law,F-A02,MASKED,MASKED,5,4,3,Excellent pace and clear handouts every week.,Positive,Materials,4.0
+R-0100,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,MASKED,MASKED,5,5,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,5.0
+R-0268,Spring 2026,LAW302,Criminal Law,F-A02,MASKED,MASKED,2,3,1,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,2.0
+R-0278,Autumn 2025,LAW102,Contract Law,F-A04,MASKED,MASKED,2,3,2,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,2.33
+R-0116,Spring 2026,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,4,4,3,"Average pace, some topics covered in depth, others skipped.",Neutral,Pacing,3.67
+R-0295,Spring 2026,LAW201,Corporate Law II,F-A01,MASKED,MASKED,5,5,5,Practical assignments helped me understand drafting better.,Neutral,Assessment,5.0
+R-0158,Spring 2026,LAW301,Jurisprudence,F-A04,MASKED,MASKED,3,3,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.0
+R-0189,Spring 2026,LAW102,Contract Law,F-A01,MASKED,MASKED,3,3,2,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.67
+R-0008,Autumn 2025,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,4,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.67
+R-0102,Autumn 2025,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,3,3,2,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.67
+R-0111,Autumn 2025,LAW301,Jurisprudence,F-A01,MASKED,MASKED,5,5,3,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0169,Spring 2026,LAW301,Jurisprudence,F-A07,MASKED,MASKED,1,3,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.33
+R-0261,Spring 2026,LAW302,Criminal Law,F-A06,MASKED,MASKED,5,5,4,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.67
+R-0233,Spring 2026,LAW201,Corporate Law II,F-A01,MASKED,MASKED,2,3,3,"Too much reliance on textbook, less classroom explanation.",Negative,Materials,2.67
+R-0048,Spring 2026,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,4,4,4,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,4.0
+R-0162,Spring 2026,LAW101,Constitutional Law I,F-A01,MASKED,MASKED,4,3,4,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0104,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,MASKED,MASKED,3,3,3,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,3.0
+R-0250,Autumn 2025,LAW301,Jurisprudence,F-A03,MASKED,MASKED,5,4,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.33
+R-0119,Autumn 2025,LAW201,Corporate Law II,F-A04,MASKED,MASKED,1,3,3,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.33
+R-0110,Autumn 2025,LAW201,Corporate Law II,F-A07,MASKED,MASKED,3,3,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,3.0
+R-0144,Autumn 2025,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,1,3,3,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0085,Spring 2026,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,5,5,3,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.33
+R-0041,Autumn 2025,LAW102,Contract Law,F-A04,MASKED,MASKED,3,3,3,Meets expectations for a core subject.,Neutral,General Teaching,3.0
+R-0142,Spring 2026,LAW202,Law of Corporate Governance,F-A02,MASKED,MASKED,1,3,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.33
+R-0045,Spring 2026,LAW201,Corporate Law II,F-A06,MASKED,MASKED,3,3,3,Meets expectations for a core subject.,Neutral,General Teaching,3.0
+R-0294,Autumn 2025,LAW201,Corporate Law II,F-A05,MASKED,MASKED,5,5,3,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,4.33
+R-0063,Spring 2026,LAW301,Jurisprudence,F-A04,MASKED,MASKED,5,4,5,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.67
+R-0190,Spring 2026,LAW101,Constitutional Law I,F-A04,MASKED,MASKED,4,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0239,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,1,2,2,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,1.67
+R-0043,Spring 2026,LAW102,Contract Law,F-A02,MASKED,MASKED,2,2,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.0
+R-0300,Autumn 2025,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,5,3,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.33
+R-0174,Spring 2026,LAW301,Jurisprudence,F-A04,MASKED,MASKED,2,3,3,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.67
+R-0028,Autumn 2025,LAW102,Contract Law,F-A07,MASKED,MASKED,5,5,5,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,5.0
+R-0166,Spring 2026,LAW202,Law of Corporate Governance,F-A07,MASKED,MASKED,4,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0088,Spring 2026,LAW202,Law of Corporate Governance,F-A05,MASKED,MASKED,4,5,3,Practical assignments helped me understand drafting better.,Neutral,Assessment,4.0
+R-0218,Spring 2026,LAW302,Criminal Law,F-A08,MASKED,MASKED,3,3,3,Course content is as per syllabus.,Neutral,General Teaching,3.0
+R-0012,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,MASKED,MASKED,3,2,1,Difficult to reach sir for doubts outside class hours.,Negative,Accessibility,2.0
+R-0059,Autumn 2025,LAW201,Corporate Law II,F-A08,MASKED,MASKED,2,3,2,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0154,Autumn 2025,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,3,3,2,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,2.67
+R-0035,Spring 2026,LAW102,Contract Law,F-A08,MASKED,MASKED,1,3,3,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.33
+R-0164,Autumn 2025,LAW202,Law of Corporate Governance,F-A03,MASKED,MASKED,4,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.33
+R-0232,Spring 2026,LAW302,Criminal Law,F-A05,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0225,Autumn 2025,LAW202,Law of Corporate Governance,F-A05,MASKED,MASKED,5,5,3,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0050,Spring 2026,LAW102,Contract Law,F-A04,MASKED,MASKED,2,3,3,Class timings often extended without prior notice.,Neutral,Pacing,2.67
+R-0244,Spring 2026,LAW101,Constitutional Law I,F-A05,MASKED,MASKED,5,5,3,Slides are well-structured and useful for revision.,Positive,Materials,4.33
+R-0273,Spring 2026,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,5,4,5,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.67
+R-0280,Spring 2026,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,5,4,3,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.0
+R-0267,Spring 2026,LAW302,Criminal Law,F-A04,MASKED,MASKED,5,4,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.33
+R-0106,Spring 2026,LAW301,Jurisprudence,F-A08,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0234,Autumn 2025,LAW302,Criminal Law,F-A08,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0176,Autumn 2025,LAW102,Contract Law,F-A05,MASKED,MASKED,4,5,3,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.0
+R-0160,Spring 2026,LAW301,Jurisprudence,F-A08,MASKED,MASKED,2,3,1,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,2.0
+R-0179,Autumn 2025,LAW201,Corporate Law II,F-A04,MASKED,MASKED,4,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.67
+R-0073,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,4,4,4,"Lectures are okay, could use more interactivity.",Neutral,General Teaching,4.0
+R-0060,Autumn 2025,LAW101,Constitutional Law I,F-A03,MASKED,MASKED,5,4,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,4.67
+R-0213,Spring 2026,LAW302,Criminal Law,F-A06,MASKED,MASKED,4,5,4,Makes difficult sections of the Act easy to follow.,Neutral,General Teaching,4.33
+R-0152,Spring 2026,LAW102,Contract Law,F-A03,MASKED,MASKED,4,5,5,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0054,Autumn 2025,LAW101,Constitutional Law I,F-A01,MASKED,MASKED,1,3,2,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,2.0
+R-0248,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,MASKED,MASKED,1,3,2,Attendance policy is strict but lectures sometimes feel repetitive.,Negative,General Teaching,2.0
+R-0013,Spring 2026,LAW102,Contract Law,F-A03,MASKED,MASKED,5,5,5,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,5.0
+R-0177,Spring 2026,LAW101,Constitutional Law I,F-A03,MASKED,MASKED,5,5,3,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.33
+R-0078,Spring 2026,LAW102,Contract Law,F-A07,MASKED,MASKED,4,4,4,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,4.0
+R-0257,Spring 2026,LAW302,Criminal Law,F-A07,MASKED,MASKED,3,3,1,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0238,Autumn 2025,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,3,4,3,Course content is as per syllabus.,Neutral,General Teaching,3.33
+R-0201,Spring 2026,LAW302,Criminal Law,F-A06,MASKED,MASKED,2,3,1,"More moot court practice would help, too much theory right now.",Negative,Practical Engagement,2.0
+R-0192,Autumn 2025,LAW201,Corporate Law II,F-A05,MASKED,MASKED,5,5,4,Excellent pace and clear handouts every week.,Positive,Materials,4.67
+R-0229,Spring 2026,LAW202,Law of Corporate Governance,F-A07,MASKED,MASKED,2,3,2,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.33
+R-0293,Autumn 2025,LAW202,Law of Corporate Governance,F-A03,MASKED,MASKED,5,5,5,Slides are well-structured and useful for revision.,Positive,Materials,5.0
+R-0286,Spring 2026,LAW201,Corporate Law II,F-A08,MASKED,MASKED,5,5,4,"Encourages class discussion, never dismissive of student views.",Positive,Practical Engagement,4.67
+R-0266,Autumn 2025,LAW201,Corporate Law II,F-A02,MASKED,MASKED,4,4,4,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.0
+R-0262,Spring 2026,LAW101,Constitutional Law I,F-A03,MASKED,MASKED,5,5,5,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,5.0
+R-0114,Spring 2026,LAW102,Contract Law,F-A02,MASKED,MASKED,3,3,1,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0133,Autumn 2025,LAW102,Contract Law,F-A05,MASKED,MASKED,5,4,4,"Explains concepts with real case examples, very engaging.",Positive,Practical Engagement,4.33
+R-0051,Spring 2026,LAW202,Law of Corporate Governance,F-A01,MASKED,MASKED,5,5,5,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,5.0
+R-0006,Autumn 2025,LAW201,Corporate Law II,F-A06,MASKED,MASKED,2,3,1,Lectures feel rushed; hard to take notes and understand together.,Negative,Materials,2.0
+R-0055,Spring 2026,LAW301,Jurisprudence,F-A04,MASKED,MASKED,3,3,3,"Standard teaching style, nothing exceptional.",Neutral,General Teaching,3.0
+R-0221,Spring 2026,LAW201,Corporate Law II,F-A06,MASKED,MASKED,3,3,1,Assessment questions went beyond what was covered in lectures.,Negative,Assessment,2.33
+R-0170,Autumn 2025,LAW301,Jurisprudence,F-A06,MASKED,MASKED,5,5,5,Moot court practice sessions are the highlight of the course.,Positive,Practical Engagement,5.0
+R-0205,Spring 2026,LAW101,Constitutional Law I,F-A08,MASKED,MASKED,2,3,3,Would appreciate more examples from Indian jurisdiction.,Neutral,Practical Engagement,2.67
+R-0289,Autumn 2025,LAW101,Constitutional Law I,F-A02,MASKED,MASKED,2,3,1,Feedback on assignments takes very long to arrive.,Neutral,Assessment,2.0
+R-0023,Spring 2026,LAW301,Jurisprudence,F-A03,MASKED,MASKED,5,4,3,Uses current case law to explain abstract principles - super helpful.,Positive,Practical Engagement,4.0
+R-0086,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,MASKED,MASKED,2,2,3,Lectures feel rushed; hard to take notes and understand together.,Negative,Materials,2.33
+R-0182,Autumn 2025,LAW102,Contract Law,F-A05,MASKED,MASKED,5,4,3,Assessment pattern is fair and reflects what was taught.,Positive,Assessment,4.0
+R-0128,Spring 2026,LAW302,Criminal Law,F-A02,MASKED,MASKED,1,3,2,Slides are text-heavy and hard to read from the back rows.,Negative,Materials,2.0

@@ -1,0 +1,306 @@
+response_id,semester,course_code,course_name,faculty_id,student_id,student_name,rating_teaching,rating_content,rating_assessment,comment
+R-0065,Autumn 2025,LAW302,Criminal Law,F-A01,STU44099,[Student_065],5,4,3,Moot court practice sessions are the highlight of the course.
+R-0199,Autumn 2025,LAW202,Law of Corporate Governance,F-A07,STU74382,[Student_199],5,4,4,Slides are well-structured and useful for revision.
+R-0103,Spring 2026,LAW302,Criminal Law,F-A05,STU28958,[Student_103],3,4,4,"Average pace, some topics covered in depth, others skipped."
+R-0211,Spring 2026,LAW301,Jurisprudence,F-A05,STU17852,[Student_211],5,5,3,Assessment pattern is fair and reflects what was taught.
+R-0219,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,STU19637,[Student_219],5,5,4,Practical assignments helped me understand drafting better.
+R-0020,Spring 2026,LAW202,Law of Corporate Governance,F-A06,STU18392,[Student_020],1,2,1,Feedback on assignments takes very long to arrive.
+R-0115,Spring 2026,LAW202,Law of Corporate Governance,F-A05,STU19681,[Student_115],5,5,4,"Explains concepts with real case examples, very engaging."
+R-0040,Autumn 2025,LAW101,Constitutional Law I,F-A06,STU56898,[Student_040],5,5,3,"Explains concepts with real case examples, very engaging."
+R-0299,Spring 2026,LAW302,Criminal Law,F-A04,STU28242,[Student_299],3,3,2,"Too much reliance on textbook, less classroom explanation."
+R-0246,Autumn 2025,LAW302,Criminal Law,F-A05,STU38721,[Student_246],5,5,4,Slides are well-structured and useful for revision.
+R-0089,Spring 2026,LAW302,Criminal Law,F-A04,STU19838,[Student_089],2,2,3,Difficult to reach sir for doubts outside class hours.
+R-0288,Spring 2026,LAW201,Corporate Law II,F-A03,STU57277,[Student_288],4,4,3,"Standard teaching style, nothing exceptional."
+R-0052,Spring 2026,LAW302,Criminal Law,F-A04,STU97012,[Student_052],1,3,3,Difficult to reach sir for doubts outside class hours.
+R-0095,Spring 2026,LAW302,Criminal Law,F-A01,STU46458,[Student_095],5,5,5,Moot court practice sessions are the highlight of the course.
+R-0247,Autumn 2025,LAW102,Contract Law,F-A08,STU81989,[Student_247],3,4,4,Meets expectations for a core subject.
+R-0206,Spring 2026,LAW102,Contract Law,F-A03,STU49862,[Student_206],4,5,4,"Explains concepts with real case examples, very engaging."
+R-0281,Spring 2026,LAW101,Constitutional Law I,F-A08,STU40115,[Student_281],1,3,1,Would appreciate more examples from Indian jurisdiction.
+R-0120,Autumn 2025,LAW201,Corporate Law II,F-A08,STU64460,[Student_120],1,3,2,Difficult to reach sir for doubts outside class hours.
+R-0145,Autumn 2025,LAW101,Constitutional Law I,F-A05,STU96223,[Student_145],4,3,4,Meets expectations for a core subject.
+R-0242,Spring 2026,LAW302,Criminal Law,F-A06,STU77538,[Student_242],3,4,3,"Standard teaching style, nothing exceptional."
+R-0240,Spring 2026,LAW301,Jurisprudence,F-A02,STU45761,[Student_240],5,4,5,"Encourages class discussion, never dismissive of student views."
+R-0001,Autumn 2025,LAW302,Criminal Law,F-A02,STU23434,[Student_001],2,2,3,Assessment questions went beyond what was covered in lectures.
+R-0019,Spring 2026,LAW301,Jurisprudence,F-A03,STU50857,[Student_019],5,4,4,
+R-0011,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU86484,[Student_011],5,5,5,"Very approachable, clears doubts patiently after class."
+R-0132,Autumn 2025,LAW102,Contract Law,F-A04,STU28964,[Student_132],4,3,3,"Standard teaching style, nothing exceptional."
+R-0298,Autumn 2025,LAW201,Corporate Law II,F-A02,STU70505,[Student_298],3,3,4,Meets expectations for a core subject.
+R-0087,Autumn 2025,LAW101,Constitutional Law I,F-A04,STU69049,[Student_087],2,3,2,Class timings often extended without prior notice.
+R-0258,Autumn 2025,LAW102,Contract Law,F-A02,STU18819,[Student_258],1,2,1,Class timings often extended without prior notice.
+R-0137,Spring 2026,LAW302,Criminal Law,F-A02,STU89730,[Student_137],1,2,2,Feedback on assignments takes very long to arrive.
+R-0024,Spring 2026,LAW302,Criminal Law,F-A07,STU17944,[Student_024],4,5,3,Uses current case law to explain abstract principles - super helpful.
+R-0210,Autumn 2025,LAW101,Constitutional Law I,F-A05,STU92203,[Student_210],4,3,3,"Average pace, some topics covered in depth, others skipped."
+R-0141,Autumn 2025,LAW201,Corporate Law II,F-A06,STU22219,[Student_141],3,3,3,"Average pace, some topics covered in depth, others skipped."
+R-0228,Autumn 2025,LAW301,Jurisprudence,F-A08,STU96799,[Student_228],2,3,2,"More moot court practice would help, too much theory right now."
+R-0186,Spring 2026,LAW302,Criminal Law,F-A01,STU53583,[Student_186],3,3,4,"Lectures are okay, could use more interactivity."
+R-0259,Spring 2026,LAW101,Constitutional Law I,F-A01,STU62725,[Student_259],5,5,3,"Explains concepts with real case examples, very engaging."
+R-0025,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,STU34050,[Student_025],5,4,5,"Very approachable, clears doubts patiently after class."
+R-0237,Spring 2026,LAW102,Contract Law,F-A07,STU94659,[Student_237],5,5,4,"Very approachable, clears doubts patiently after class."
+R-0279,Spring 2026,LAW201,Corporate Law II,F-A07,STU95182,[Student_279],3,3,4,
+R-0123,Spring 2026,LAW201,Corporate Law II,F-A02,STU98188,[Student_123],4,5,4,"Encourages class discussion, never dismissive of student views."
+R-0149,Autumn 2025,LAW102,Contract Law,F-A03,STU89570,[Student_149],3,4,3,"Lectures are okay, could use more interactivity."
+R-0195,Spring 2026,LAW101,Constitutional Law I,F-A02,STU14561,[Student_195],4,4,5,Moot court practice sessions are the highlight of the course.
+R-0026,Autumn 2025,LAW201,Corporate Law II,F-A08,STU16630,[Student_026],3,3,1,"Too much reliance on textbook, less classroom explanation."
+R-0046,Autumn 2025,LAW102,Contract Law,F-A05,STU67199,[Student_046],5,5,4,Assessment pattern is fair and reflects what was taught.
+R-0021,Autumn 2025,LAW201,Corporate Law II,F-A01,STU40007,[Student_021],4,5,3,"Explains concepts with real case examples, very engaging."
+R-0010,Autumn 2025,LAW201,Corporate Law II,F-A02,STU75435,[Student_010],2,2,3,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0241,Spring 2026,LAW102,Contract Law,F-A02,STU11846,[Student_241],5,5,4,Uses current case law to explain abstract principles - super helpful.
+R-0198,Spring 2026,LAW301,Jurisprudence,F-A06,STU34385,[Student_198],5,4,3,Slides are well-structured and useful for revision.
+R-0215,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,STU75308,[Student_215],2,2,1,
+R-0056,Spring 2026,LAW102,Contract Law,F-A03,STU70901,[Student_056],4,5,4,
+R-0067,Autumn 2025,LAW101,Constitutional Law I,F-A08,STU18993,[Student_067],2,2,3,Lectures feel rushed; hard to take notes and understand together.
+R-0180,Spring 2026,LAW101,Constitutional Law I,F-A05,STU20384,[Student_180],5,5,3,Moot court practice sessions are the highlight of the course.
+R-0004,Autumn 2025,LAW201,Corporate Law II,F-A03,STU22676,[Student_004],1,2,2,Would appreciate more examples from Indian jurisdiction.
+R-0260,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,STU40692,[Student_260],2,3,2,
+R-0202,Autumn 2025,LAW102,Contract Law,F-A06,STU13445,[Student_202],5,4,5,"Very approachable, clears doubts patiently after class."
+R-0049,Spring 2026,LAW302,Criminal Law,F-A05,STU82667,[Student_049],5,5,4,Makes difficult sections of the Act easy to follow.
+R-0009,Spring 2026,LAW201,Corporate Law II,F-A04,STU62581,[Student_009],2,2,2,Lectures feel rushed; hard to take notes and understand together.
+R-0007,Spring 2026,LAW101,Constitutional Law I,F-A07,STU37460,[Student_007],5,5,4,Makes difficult sections of the Act easy to follow.
+R-0216,Spring 2026,LAW301,Jurisprudence,F-A08,STU76249,[Student_216],1,2,2,Feedback on assignments takes very long to arrive.
+R-0276,Spring 2026,LAW101,Constitutional Law I,F-A08,STU79391,[Student_276],5,4,3,"Encourages class discussion, never dismissive of student views."
+R-0187,Spring 2026,LAW102,Contract Law,F-A01,STU92802,[Student_187],5,5,5,Moot court practice sessions are the highlight of the course.
+R-0033,Spring 2026,LAW302,Criminal Law,F-A05,STU19602,[Student_033],4,5,3,Excellent pace and clear handouts every week.
+R-0080,Spring 2026,LAW301,Jurisprudence,F-A06,STU69473,[Student_080],2,3,3,"More moot court practice would help, too much theory right now."
+R-0061,Spring 2026,LAW201,Corporate Law II,F-A08,STU85456,[Student_061],5,5,3,Assessment pattern is fair and reflects what was taught.
+R-0184,Autumn 2025,LAW102,Contract Law,F-A07,STU78951,[Student_184],4,4,3,Course content is as per syllabus.
+R-0113,Spring 2026,LAW201,Corporate Law II,F-A06,STU32280,[Student_113],5,5,4,"Very approachable, clears doubts patiently after class."
+R-0038,Spring 2026,LAW101,Constitutional Law I,F-A07,STU31178,[Student_038],5,5,4,Makes difficult sections of the Act easy to follow.
+R-0042,Autumn 2025,LAW102,Contract Law,F-A07,STU44970,[Student_042],5,5,4,Makes difficult sections of the Act easy to follow.
+R-0283,Autumn 2025,LAW201,Corporate Law II,F-A01,STU83919,[Student_283],4,5,4,Assessment pattern is fair and reflects what was taught.
+R-0134,Autumn 2025,LAW301,Jurisprudence,F-A06,STU78955,[Student_134],5,5,5,"Explains concepts with real case examples, very engaging."
+R-0245,Autumn 2025,LAW302,Criminal Law,F-A06,STU63138,[Student_245],5,5,4,Excellent pace and clear handouts every week.
+R-0124,Spring 2026,LAW302,Criminal Law,F-A05,STU13280,[Student_124],3,3,3,"Lectures are okay, could use more interactivity."
+R-0161,Spring 2026,LAW202,Law of Corporate Governance,F-A05,STU69233,[Student_161],4,5,5,Makes difficult sections of the Act easy to follow.
+R-0285,Autumn 2025,LAW101,Constitutional Law I,F-A07,STU93115,[Student_285],3,3,1,Would appreciate more examples from Indian jurisdiction.
+R-0139,Autumn 2025,LAW301,Jurisprudence,F-A07,STU39949,[Student_139],2,3,2,"Too much reliance on textbook, less classroom explanation."
+R-0082,Spring 2026,LAW102,Contract Law,F-A08,STU48829,[Student_082],2,2,1,"More moot court practice would help, too much theory right now."
+R-0083,Autumn 2025,LAW102,Contract Law,F-A06,STU17146,[Student_083],5,5,3,"Encourages class discussion, never dismissive of student views."
+R-0018,Spring 2026,LAW101,Constitutional Law I,F-A02,STU72296,[Student_018],2,2,3,"More moot court practice would help, too much theory right now."
+R-0122,Autumn 2025,LAW201,Corporate Law II,F-A06,STU83048,[Student_122],5,4,5,Excellent pace and clear handouts every week.
+R-0185,Spring 2026,LAW301,Jurisprudence,F-A01,STU43246,[Student_185],4,4,3,
+R-0171,Autumn 2025,LAW102,Contract Law,F-A03,STU91006,[Student_171],4,5,4,Excellent pace and clear handouts every week.
+R-0254,Spring 2026,LAW202,Law of Corporate Governance,F-A01,STU68790,[Student_254],5,5,5,Moot court practice sessions are the highlight of the course.
+R-0076,Spring 2026,LAW301,Jurisprudence,F-A07,STU56507,[Student_076],5,5,4,Makes difficult sections of the Act easy to follow.
+R-0212,Spring 2026,LAW102,Contract Law,F-A08,STU51853,[Student_212],3,3,3,"Standard teaching style, nothing exceptional."
+R-0271,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,STU29976,[Student_271],3,4,3,Course content is as per syllabus.
+R-0016,Autumn 2025,LAW201,Corporate Law II,F-A04,STU52487,[Student_016],4,3,4,"Standard teaching style, nothing exceptional."
+R-0147,Autumn 2025,LAW102,Contract Law,F-A07,STU59308,[Student_147],4,5,4,"Explains concepts with real case examples, very engaging."
+R-0256,Autumn 2025,LAW301,Jurisprudence,F-A07,STU70686,[Student_256],3,3,3,"Standard teaching style, nothing exceptional."
+R-0155,Autumn 2025,LAW202,Law of Corporate Governance,F-A05,STU57428,[Student_155],5,5,5,Makes difficult sections of the Act easy to follow.
+R-0034,Spring 2026,LAW301,Jurisprudence,F-A04,STU47353,[Student_034],4,4,4,Makes difficult sections of the Act easy to follow.
+R-0058,Autumn 2025,LAW202,Law of Corporate Governance,F-A05,STU41358,[Student_058],4,4,4,"Lectures are okay, could use more interactivity."
+R-0156,Autumn 2025,LAW101,Constitutional Law I,F-A07,STU61873,[Student_156],5,5,3,Practical assignments helped me understand drafting better.
+R-0039,Spring 2026,LAW302,Criminal Law,F-A08,STU81511,[Student_039],1,3,1,"Too much reliance on textbook, less classroom explanation."
+R-0032,Spring 2026,LAW202,Law of Corporate Governance,F-A06,STU27154,[Student_032],5,5,5,Makes difficult sections of the Act easy to follow.
+R-0203,Spring 2026,LAW201,Corporate Law II,F-A06,STU18617,[Student_203],2,3,1,"More moot court practice would help, too much theory right now."
+R-0146,Autumn 2025,LAW302,Criminal Law,F-A05,STU33777,[Student_146],5,5,3,Slides are well-structured and useful for revision.
+R-0217,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,STU88317,[Student_217],1,3,2,Lectures feel rushed; hard to take notes and understand together.
+R-0252,Spring 2026,LAW301,Jurisprudence,F-A01,STU10395,[Student_252],4,5,4,Slides are well-structured and useful for revision.
+R-0235,Autumn 2025,LAW101,Constitutional Law I,F-A04,STU16880,[Student_235],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0129,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU57012,[Student_129],2,3,3,"Too much reliance on textbook, less classroom explanation."
+R-0093,Spring 2026,LAW301,Jurisprudence,F-A05,STU67377,[Student_093],5,5,5,Slides are well-structured and useful for revision.
+R-0098,Autumn 2025,LAW101,Constitutional Law I,F-A08,STU96200,[Student_098],4,5,3,Makes difficult sections of the Act easy to follow.
+R-0296,Spring 2026,LAW202,Law of Corporate Governance,F-A03,STU62198,[Student_296],5,5,4,"Very approachable, clears doubts patiently after class."
+R-0097,Autumn 2025,LAW302,Criminal Law,F-A02,STU82102,[Student_097],5,5,5,Uses current case law to explain abstract principles - super helpful.
+R-0135,Spring 2026,LAW101,Constitutional Law I,F-A02,STU76039,[Student_135],4,3,3,"Lectures are okay, could use more interactivity."
+R-0230,Spring 2026,LAW302,Criminal Law,F-A05,STU39473,[Student_230],5,5,4,"Very approachable, clears doubts patiently after class."
+R-0269,Spring 2026,LAW201,Corporate Law II,F-A05,STU77215,[Student_269],5,5,4,Makes difficult sections of the Act easy to follow.
+R-0070,Autumn 2025,LAW102,Contract Law,F-A02,STU98781,[Student_070],1,3,3,"Too much reliance on textbook, less classroom explanation."
+R-0121,Autumn 2025,LAW102,Contract Law,F-A04,STU73156,[Student_121],2,2,2,Would appreciate more examples from Indian jurisdiction.
+R-0243,Spring 2026,LAW201,Corporate Law II,F-A02,STU42512,[Student_243],2,3,2,Difficult to reach sir for doubts outside class hours.
+R-0112,Spring 2026,LAW101,Constitutional Law I,F-A02,STU17355,[Student_112],4,4,4,Slides are well-structured and useful for revision.
+R-0226,Spring 2026,LAW202,Law of Corporate Governance,F-A03,STU35006,[Student_226],4,5,3,"Very approachable, clears doubts patiently after class."
+R-0015,Autumn 2025,LAW201,Corporate Law II,F-A07,STU91959,[Student_015],5,5,3,Slides are well-structured and useful for revision.
+R-0066,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,STU43065,[Student_066],5,5,5,Makes difficult sections of the Act easy to follow.
+R-0071,Autumn 2025,LAW202,Law of Corporate Governance,F-A07,STU99687,[Student_071],4,5,4,"Very approachable, clears doubts patiently after class."
+R-0064,Autumn 2025,LAW302,Criminal Law,F-A07,STU83975,[Student_064],1,3,3,Difficult to reach sir for doubts outside class hours.
+R-0117,Spring 2026,LAW102,Contract Law,F-A07,STU48696,[Student_117],5,5,4,Assessment pattern is fair and reflects what was taught.
+R-0140,Spring 2026,LAW202,Law of Corporate Governance,F-A06,STU97177,[Student_140],5,5,4,Excellent pace and clear handouts every week.
+R-0168,Spring 2026,LAW302,Criminal Law,F-A03,STU50577,[Student_168],5,5,3,Assessment pattern is fair and reflects what was taught.
+R-0274,Autumn 2025,LAW301,Jurisprudence,F-A01,STU64053,[Student_274],4,3,3,Course content is as per syllabus.
+R-0284,Spring 2026,LAW102,Contract Law,F-A07,STU17038,[Student_284],4,5,4,Moot court practice sessions are the highlight of the course.
+R-0165,Spring 2026,LAW102,Contract Law,F-A08,STU47079,[Student_165],3,4,3,Meets expectations for a core subject.
+R-0253,Autumn 2025,LAW302,Criminal Law,F-A04,STU19046,[Student_253],4,5,3,Makes difficult sections of the Act easy to follow.
+R-0167,Spring 2026,LAW101,Constitutional Law I,F-A07,STU86380,[Student_167],5,5,3,Practical assignments helped me understand drafting better.
+R-0069,Autumn 2025,LAW102,Contract Law,F-A08,STU58351,[Student_069],3,3,2,Assessment questions went beyond what was covered in lectures.
+R-0029,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU51104,[Student_029],4,5,3,"Very approachable, clears doubts patiently after class."
+R-0150,Spring 2026,LAW202,Law of Corporate Governance,F-A07,STU24534,[Student_150],4,5,5,"Encourages class discussion, never dismissive of student views."
+R-0005,Spring 2026,LAW201,Corporate Law II,F-A06,STU82357,[Student_005],1,3,1,Feedback on assignments takes very long to arrive.
+R-0075,Autumn 2025,LAW201,Corporate Law II,F-A06,STU70910,[Student_075],2,3,1,"Too much reliance on textbook, less classroom explanation."
+R-0057,Spring 2026,LAW302,Criminal Law,F-A06,STU72216,[Student_057],3,4,3,Meets expectations for a core subject.
+R-0227,Spring 2026,LAW101,Constitutional Law I,F-A08,STU75774,[Student_227],4,3,3,"Average pace, some topics covered in depth, others skipped."
+R-0282,Spring 2026,LAW102,Contract Law,F-A08,STU33508,[Student_282],5,5,3,Excellent pace and clear handouts every week.
+R-0163,Spring 2026,LAW301,Jurisprudence,F-A07,STU89299,[Student_163],3,3,3,Course content is as per syllabus.
+R-0196,Autumn 2025,LAW102,Contract Law,F-A02,STU14244,[Student_196],2,3,3,Would appreciate more examples from Indian jurisdiction.
+R-0246,Autumn 2025,LAW302,Criminal Law,F-A05,STU38721,[Student_246],5,5,4,Slides are well-structured and useful for revision.
+R-0107,Spring 2026,LAW302,Criminal Law,F-A04,STU59968,[Student_107],4,5,5,Assessment pattern is fair and reflects what was taught.
+R-0178,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,STU20696,[Student_178],5,4,5,Assessment pattern is fair and reflects what was taught.
+R-0105,Spring 2026,LAW101,Constitutional Law I,F-A05,STU68529,[Student_105],4,4,3,Meets expectations for a core subject.
+R-0127,Spring 2026,LAW301,Jurisprudence,F-A03,STU64379,[Student_127],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0130,Spring 2026,LAW101,Constitutional Law I,F-A07,STU94109,[Student_130],5,4,4,Excellent pace and clear handouts every week.
+R-0272,Autumn 2025,LAW102,Contract Law,F-A06,STU43728,[Student_272],5,5,4,"Very approachable, clears doubts patiently after class."
+R-0264,Autumn 2025,LAW102,Contract Law,F-A05,STU83044,[Student_264],4,4,3,Course content is as per syllabus.
+R-0175,Spring 2026,LAW202,Law of Corporate Governance,F-A08,STU89254,[Student_175],3,2,1,"More moot court practice would help, too much theory right now."
+R-0191,Spring 2026,LAW201,Corporate Law II,F-A07,STU75211,[Student_191],3,3,3,"Average pace, some topics covered in depth, others skipped."
+R-0003,Autumn 2025,LAW102,Contract Law,F-A07,STU54597,[Student_003],4,4,5,Slides are well-structured and useful for revision.
+R-0092,Autumn 2025,LAW101,Constitutional Law I,F-A04,STU50319,[Student_092],1,2,1,Difficult to reach sir for doubts outside class hours.
+R-0014,Autumn 2025,LAW201,Corporate Law II,F-A01,STU24621,[Student_014],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0223,Spring 2026,LAW102,Contract Law,F-A06,STU76494,[Student_223],5,5,4,Practical assignments helped me understand drafting better.
+R-0251,Spring 2026,LAW202,Law of Corporate Governance,F-A02,STU69873,[Student_251],2,3,2,Feedback on assignments takes very long to arrive.
+R-0291,Spring 2026,LAW201,Corporate Law II,F-A02,STU21101,[Student_291],2,3,2,Lectures feel rushed; hard to take notes and understand together.
+R-0270,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU51015,[Student_270],2,2,2,Feedback on assignments takes very long to arrive.
+R-0074,Spring 2026,LAW202,Law of Corporate Governance,F-A03,STU87656,[Student_074],3,4,3,Meets expectations for a core subject.
+R-0197,Spring 2026,LAW301,Jurisprudence,F-A03,STU28047,[Student_197],3,2,3,Would appreciate more examples from Indian jurisdiction.
+R-0249,Autumn 2025,LAW302,Criminal Law,F-A06,STU36497,[Student_249],1,3,3,"Too much reliance on textbook, less classroom explanation."
+R-0143,Spring 2026,LAW201,Corporate Law II,F-A02,STU56090,[Student_143],4,5,4,Assessment pattern is fair and reflects what was taught.
+R-0183,Autumn 2025,LAW301,Jurisprudence,F-A01,STU56244,[Student_183],3,3,4,"Lectures are okay, could use more interactivity."
+R-0206,Spring 2026,LAW102,Contract Law,F-A03,STU49862,[Student_206],4,5,4,"Explains concepts with real case examples, very engaging."
+R-0125,Autumn 2025,LAW301,Jurisprudence,F-A06,STU63516,[Student_125],4,4,4,"Average pace, some topics covered in depth, others skipped."
+R-0207,Spring 2026,LAW102,Contract Law,F-A03,STU20336,[Student_207],2,3,2,Assessment questions went beyond what was covered in lectures.
+R-0109,Autumn 2025,LAW301,Jurisprudence,F-A08,STU44737,[Student_109],2,2,2,Class timings often extended without prior notice.
+R-0099,Spring 2026,LAW301,Jurisprudence,F-A08,STU91973,[Student_099],5,5,5,"Encourages class discussion, never dismissive of student views."
+R-0209,Autumn 2025,LAW301,Jurisprudence,F-A03,STU20646,[Student_209],3,3,3,Meets expectations for a core subject.
+R-0036,Autumn 2025,LAW302,Criminal Law,F-A02,STU89276,[Student_036],5,5,4,Excellent pace and clear handouts every week.
+R-0214,Spring 2026,LAW101,Constitutional Law I,F-A05,STU90658,[Student_214],4,5,5,Excellent pace and clear handouts every week.
+R-0108,Spring 2026,LAW202,Law of Corporate Governance,F-A03,STU23069,[Student_108],2,2,2,Difficult to reach sir for doubts outside class hours.
+R-0287,Autumn 2025,LAW301,Jurisprudence,F-A07,STU20752,[Student_287],2,3,1,Slides are text-heavy and hard to read from the back rows.
+R-0131,Autumn 2025,LAW302,Criminal Law,F-A01,STU82641,[Student_131],3,3,3,"Standard teaching style, nothing exceptional."
+R-0037,Autumn 2025,LAW102,Contract Law,F-A06,STU16658,[Student_037],4,4,3,"Lectures are okay, could use more interactivity."
+R-0096,Spring 2026,LAW102,Contract Law,F-A07,STU52081,[Student_096],2,3,2,Feedback on assignments takes very long to arrive.
+R-0047,Spring 2026,LAW301,Jurisprudence,F-A02,STU67154,[Student_047],2,2,3,Assessment questions went beyond what was covered in lectures.
+R-0188,Autumn 2025,LAW102,Contract Law,F-A03,STU15741,[Student_188],3,4,3,"Average pace, some topics covered in depth, others skipped."
+R-0079,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,STU72031,[Student_079],5,5,4,Assessment pattern is fair and reflects what was taught.
+R-0062,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU81582,[Student_062],3,3,3,Slides are text-heavy and hard to read from the back rows.
+R-0031,Autumn 2025,LAW101,Constitutional Law I,F-A02,STU20745,[Student_031],3,3,4,Meets expectations for a core subject.
+R-0194,Spring 2026,LAW302,Criminal Law,F-A08,STU93816,[Student_194],4,4,3,"Lectures are okay, could use more interactivity."
+R-0260,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,STU40692,[Student_260],2,3,2,Lectures feel rushed; hard to take notes and understand together.
+R-0274,Autumn 2025,LAW301,Jurisprudence,F-A01,STU64053,[Student_274],4,3,3,Course content is as per syllabus.
+R-0022,Spring 2026,LAW101,Constitutional Law I,F-A01,STU38080,[Student_022],5,5,5,"Very approachable, clears doubts patiently after class."
+R-0222,Spring 2026,LAW101,Constitutional Law I,F-A03,STU77568,[Student_222],3,2,3,"More moot court practice would help, too much theory right now."
+R-0263,Spring 2026,LAW201,Corporate Law II,F-A07,STU41584,[Student_263],5,5,5,Assessment pattern is fair and reflects what was taught.
+R-0077,Spring 2026,LAW201,Corporate Law II,F-A06,STU21221,[Student_077],1,3,1,Slides are text-heavy and hard to read from the back rows.
+R-0277,Spring 2026,LAW302,Criminal Law,F-A05,STU78732,[Student_277],5,4,3,Assessment pattern is fair and reflects what was taught.
+R-0173,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,STU40671,[Student_173],2,3,2,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0265,Spring 2026,LAW301,Jurisprudence,F-A03,STU68954,[Student_265],5,5,3,"Very approachable, clears doubts patiently after class."
+R-0159,Autumn 2025,LAW102,Contract Law,F-A03,STU83889,[Student_159],3,4,3,Course content is as per syllabus.
+R-0290,Spring 2026,LAW101,Constitutional Law I,F-A03,STU21746,[Student_290],5,4,3,"Encourages class discussion, never dismissive of student views."
+R-0091,Spring 2026,LAW201,Corporate Law II,F-A05,STU65723,[Student_091],5,5,4,"Very approachable, clears doubts patiently after class."
+R-0090,Spring 2026,LAW102,Contract Law,F-A01,STU40340,[Student_090],5,5,3,Practical assignments helped me understand drafting better.
+R-0200,Autumn 2025,LAW102,Contract Law,F-A02,STU21506,[Student_200],2,3,2,Feedback on assignments takes very long to arrive.
+R-0151,Spring 2026,LAW201,Corporate Law II,F-A08,STU49507,[Student_151],4,4,4,Assessment pattern is fair and reflects what was taught.
+R-0101,Autumn 2025,LAW101,Constitutional Law I,F-A04,STU39451,[Student_101],4,4,3,Course content is as per syllabus.
+R-0157,Autumn 2025,LAW201,Corporate Law II,F-A06,STU79547,[Student_157],4,5,3,Moot court practice sessions are the highlight of the course.
+R-0220,Spring 2026,LAW202,Law of Corporate Governance,F-A08,STU61629,[Student_220],1,2,1,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0153,Autumn 2025,LAW102,Contract Law,F-A07,STU67176,[Student_153],4,5,3,Makes difficult sections of the Act easy to follow.
+R-0081,Spring 2026,LAW201,Corporate Law II,F-A05,STU35105,[Student_081],5,4,4,"Very approachable, clears doubts patiently after class."
+R-0231,Autumn 2025,LAW201,Corporate Law II,F-A05,STU83464,[Student_231],5,5,4,Uses current case law to explain abstract principles - super helpful.
+R-0136,Spring 2026,LAW102,Contract Law,F-A01,STU65872,[Student_136],4,5,5,"Explains concepts with real case examples, very engaging."
+R-0126,Autumn 2025,LAW101,Constitutional Law I,F-A03,STU40775,[Student_126],3,2,1,Slides are text-heavy and hard to read from the back rows.
+R-0172,Autumn 2025,LAW102,Contract Law,F-A07,STU15726,[Student_172],5,5,5,Practical assignments helped me understand drafting better.
+R-0068,Autumn 2025,LAW302,Criminal Law,F-A01,STU41266,[Student_068],1,3,1,Assessment questions went beyond what was covered in lectures.
+R-0030,Spring 2026,LAW101,Constitutional Law I,F-A01,STU34356,[Student_030],5,4,3,"Encourages class discussion, never dismissive of student views."
+R-0118,Spring 2026,LAW101,Constitutional Law I,F-A07,STU89569,[Student_118],5,5,4,"Explains concepts with real case examples, very engaging."
+R-0224,Spring 2026,LAW301,Jurisprudence,F-A08,STU24366,[Student_224],3,4,4,Course content is as per syllabus.
+R-0084,Autumn 2025,LAW301,Jurisprudence,F-A05,STU71524,[Student_084],4,4,4,Uses current case law to explain abstract principles - super helpful.
+R-0094,Spring 2026,LAW101,Constitutional Law I,F-A01,STU40005,[Student_094],3,3,3,Meets expectations for a core subject.
+R-0292,Autumn 2025,LAW302,Criminal Law,F-A04,STU45180,[Student_292],2,3,2,Difficult to reach sir for doubts outside class hours.
+R-0138,Autumn 2025,LAW102,Contract Law,F-A02,STU69469,[Student_138],5,5,4,Practical assignments helped me understand drafting better.
+R-0236,Spring 2026,LAW101,Constitutional Law I,F-A07,STU82135,[Student_236],4,3,3,Course content is as per syllabus.
+R-0027,Autumn 2025,LAW302,Criminal Law,F-A01,STU73092,[Student_027],2,3,2,Assessment questions went beyond what was covered in lectures.
+R-0148,Spring 2026,LAW202,Law of Corporate Governance,F-A08,STU16895,[Student_148],5,5,3,Slides are well-structured and useful for revision.
+R-0017,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,STU84364,[Student_017],2,2,1,Slides are text-heavy and hard to read from the back rows.
+R-0204,Spring 2026,LAW201,Corporate Law II,F-A07,STU94192,[Student_204],4,4,4,Assessment pattern is fair and reflects what was taught.
+R-0208,Spring 2026,LAW201,Corporate Law II,F-A04,STU87569,[Student_208],4,5,4,Slides are well-structured and useful for revision.
+R-0255,Autumn 2025,LAW202,Law of Corporate Governance,F-A07,STU33392,[Student_255],3,4,3,Meets expectations for a core subject.
+R-0193,Autumn 2025,LAW201,Corporate Law II,F-A06,STU31842,[Student_193],5,5,5,Slides are well-structured and useful for revision.
+R-0072,Autumn 2025,LAW301,Jurisprudence,F-A02,STU11658,[Student_072],5,4,4,Assessment pattern is fair and reflects what was taught.
+R-0053,Autumn 2025,LAW302,Criminal Law,F-A06,STU29313,[Student_053],2,2,1,Assessment questions went beyond what was covered in lectures.
+R-0297,Spring 2026,LAW201,Corporate Law II,F-A05,STU61502,[Student_297],2,3,2,Assessment questions went beyond what was covered in lectures.
+R-0181,Autumn 2025,LAW101,Constitutional Law I,F-A05,STU47762,[Student_181],4,4,3,Meets expectations for a core subject.
+R-0002,Spring 2026,LAW302,Criminal Law,F-A02,STU83563,[Student_002],5,4,3,Excellent pace and clear handouts every week.
+R-0100,Autumn 2025,LAW202,Law of Corporate Governance,F-A01,STU25915,[Student_100],5,5,5,Moot court practice sessions are the highlight of the course.
+R-0268,Spring 2026,LAW302,Criminal Law,F-A02,STU82362,[Student_268],2,3,1,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0278,Autumn 2025,LAW102,Contract Law,F-A04,STU20357,[Student_278],2,3,2,Slides are text-heavy and hard to read from the back rows.
+R-0116,Spring 2026,LAW202,Law of Corporate Governance,F-A06,STU49599,[Student_116],4,4,3,"Average pace, some topics covered in depth, others skipped."
+R-0295,Spring 2026,LAW201,Corporate Law II,F-A01,STU53874,[Student_295],5,5,5,Practical assignments helped me understand drafting better.
+R-0158,Spring 2026,LAW301,Jurisprudence,F-A04,STU43550,[Student_158],3,3,3,"Standard teaching style, nothing exceptional."
+R-0189,Spring 2026,LAW102,Contract Law,F-A01,STU43202,[Student_189],3,3,2,"More moot court practice would help, too much theory right now."
+R-0008,Autumn 2025,LAW302,Criminal Law,F-A05,STU59735,[Student_008],5,4,5,Moot court practice sessions are the highlight of the course.
+R-0102,Autumn 2025,LAW101,Constitutional Law I,F-A08,STU76698,[Student_102],3,3,2,Difficult to reach sir for doubts outside class hours.
+R-0111,Autumn 2025,LAW301,Jurisprudence,F-A01,STU66881,[Student_111],5,5,3,Slides are well-structured and useful for revision.
+R-0169,Spring 2026,LAW301,Jurisprudence,F-A07,STU65496,[Student_169],1,3,3,"More moot court practice would help, too much theory right now."
+R-0261,Spring 2026,LAW302,Criminal Law,F-A06,STU46064,[Student_261],5,5,4,Moot court practice sessions are the highlight of the course.
+R-0233,Spring 2026,LAW201,Corporate Law II,F-A01,STU43612,[Student_233],2,3,3,"Too much reliance on textbook, less classroom explanation."
+R-0048,Spring 2026,LAW101,Constitutional Law I,F-A04,STU26334,[Student_048],4,4,4,"Lectures are okay, could use more interactivity."
+R-0162,Spring 2026,LAW101,Constitutional Law I,F-A01,STU87867,[Student_162],4,3,4,Course content is as per syllabus.
+R-0104,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,STU45018,[Student_104],3,3,3,Slides are text-heavy and hard to read from the back rows.
+R-0250,Autumn 2025,LAW301,Jurisprudence,F-A03,STU86434,[Student_250],5,4,4,"Encourages class discussion, never dismissive of student views."
+R-0275,Autumn 2025,LAW102,Contract Law,F-A04,STU58916,[Student_275],2,3,2,
+R-0119,Autumn 2025,LAW201,Corporate Law II,F-A04,STU15167,[Student_119],1,3,3,Difficult to reach sir for doubts outside class hours.
+R-0110,Autumn 2025,LAW201,Corporate Law II,F-A07,STU73956,[Student_110],3,3,3,"More moot court practice would help, too much theory right now."
+R-0144,Autumn 2025,LAW101,Constitutional Law I,F-A04,STU58176,[Student_144],1,3,3,Assessment questions went beyond what was covered in lectures.
+R-0085,Spring 2026,LAW202,Law of Corporate Governance,F-A08,STU18564,[Student_085],5,5,3,"Explains concepts with real case examples, very engaging."
+R-0041,Autumn 2025,LAW102,Contract Law,F-A04,STU31299,[Student_041],3,3,3,Meets expectations for a core subject.
+R-0142,Spring 2026,LAW202,Law of Corporate Governance,F-A02,STU83620,[Student_142],1,3,3,"More moot court practice would help, too much theory right now."
+R-0045,Spring 2026,LAW201,Corporate Law II,F-A06,STU44237,[Student_045],3,3,3,Meets expectations for a core subject.
+R-0294,Autumn 2025,LAW201,Corporate Law II,F-A05,STU27758,[Student_294],5,5,3,Uses current case law to explain abstract principles - super helpful.
+R-0063,Spring 2026,LAW301,Jurisprudence,F-A04,STU54057,[Student_063],5,4,5,Assessment pattern is fair and reflects what was taught.
+R-0190,Spring 2026,LAW101,Constitutional Law I,F-A04,STU26315,[Student_190],4,4,3,Course content is as per syllabus.
+R-0239,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU84443,[Student_239],1,2,2,Slides are text-heavy and hard to read from the back rows.
+R-0043,Spring 2026,LAW102,Contract Law,F-A02,STU55830,[Student_043],2,2,2,Feedback on assignments takes very long to arrive.
+R-0300,Autumn 2025,LAW302,Criminal Law,F-A05,STU68860,[Student_300],5,5,3,Moot court practice sessions are the highlight of the course.
+R-0174,Spring 2026,LAW301,Jurisprudence,F-A04,STU84766,[Student_174],2,3,3,Feedback on assignments takes very long to arrive.
+R-0028,Autumn 2025,LAW102,Contract Law,F-A07,STU47388,[Student_028],5,5,5,"Explains concepts with real case examples, very engaging."
+R-0166,Spring 2026,LAW202,Law of Corporate Governance,F-A07,STU53213,[Student_166],4,4,3,Course content is as per syllabus.
+R-0088,Spring 2026,LAW202,Law of Corporate Governance,F-A05,STU37235,[Student_088],4,5,3,Practical assignments helped me understand drafting better.
+R-0218,Spring 2026,LAW302,Criminal Law,F-A08,STU57943,[Student_218],3,3,3,Course content is as per syllabus.
+R-0012,Autumn 2025,LAW202,Law of Corporate Governance,F-A06,STU24371,[Student_012],3,2,1,Difficult to reach sir for doubts outside class hours.
+R-0059,Autumn 2025,LAW201,Corporate Law II,F-A08,STU80798,[Student_059],2,3,2,Assessment questions went beyond what was covered in lectures.
+R-0299,Spring 2026,LAW302,Criminal Law,F-A04,STU28242,[Student_299],3,3,2,"Too much reliance on textbook, less classroom explanation."
+R-0154,Autumn 2025,LAW101,Constitutional Law I,F-A08,STU93904,[Student_154],3,3,2,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0035,Spring 2026,LAW102,Contract Law,F-A08,STU49240,[Student_035],1,3,3,"More moot court practice would help, too much theory right now."
+R-0164,Autumn 2025,LAW202,Law of Corporate Governance,F-A03,STU15130,[Student_164],4,5,4,Makes difficult sections of the Act easy to follow.
+R-0232,Spring 2026,LAW302,Criminal Law,F-A05,STU29198,[Student_232],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0225,Autumn 2025,LAW202,Law of Corporate Governance,F-A05,STU86483,[Student_225],5,5,3,Slides are well-structured and useful for revision.
+R-0050,Spring 2026,LAW102,Contract Law,F-A04,STU49446,[Student_050],2,3,3,Class timings often extended without prior notice.
+R-0244,Spring 2026,LAW101,Constitutional Law I,F-A05,STU44282,[Student_244],5,5,3,Slides are well-structured and useful for revision.
+R-0273,Spring 2026,LAW202,Law of Corporate Governance,F-A08,STU34123,[Student_273],5,4,5,Makes difficult sections of the Act easy to follow.
+R-0280,Spring 2026,LAW101,Constitutional Law I,F-A02,STU32463,[Student_280],5,4,3,"Encourages class discussion, never dismissive of student views."
+R-0267,Spring 2026,LAW302,Criminal Law,F-A04,STU34906,[Student_267],5,4,4,Makes difficult sections of the Act easy to follow.
+R-0106,Spring 2026,LAW301,Jurisprudence,F-A08,STU34727,[Student_106],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0234,Autumn 2025,LAW302,Criminal Law,F-A08,STU27992,[Student_234],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0176,Autumn 2025,LAW102,Contract Law,F-A05,STU47363,[Student_176],4,5,3,Makes difficult sections of the Act easy to follow.
+R-0160,Spring 2026,LAW301,Jurisprudence,F-A08,STU71462,[Student_160],2,3,1,Would appreciate more examples from Indian jurisdiction.
+R-0179,Autumn 2025,LAW201,Corporate Law II,F-A04,STU28035,[Student_179],4,4,3,Course content is as per syllabus.
+R-0073,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU30052,[Student_073],4,4,4,"Lectures are okay, could use more interactivity."
+R-0060,Autumn 2025,LAW101,Constitutional Law I,F-A03,STU63424,[Student_060],5,4,5,Moot court practice sessions are the highlight of the course.
+R-0044,Autumn 2025,LAW201,Corporate Law II,F-A04,STU19099,[Student_044],5,5,4,
+R-0213,Spring 2026,LAW302,Criminal Law,F-A06,STU71141,[Student_213],4,5,4,Makes difficult sections of the Act easy to follow.
+R-0152,Spring 2026,LAW102,Contract Law,F-A03,STU33028,[Student_152],4,5,5,Excellent pace and clear handouts every week.
+R-0054,Autumn 2025,LAW101,Constitutional Law I,F-A01,STU92544,[Student_054],1,3,2,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0248,Autumn 2025,LAW202,Law of Corporate Governance,F-A04,STU79228,[Student_248],1,3,2,Attendance policy is strict but lectures sometimes feel repetitive.
+R-0013,Spring 2026,LAW102,Contract Law,F-A03,STU79352,[Student_013],5,5,5,Assessment pattern is fair and reflects what was taught.
+R-0177,Spring 2026,LAW101,Constitutional Law I,F-A03,STU39102,[Student_177],5,5,3,"Encourages class discussion, never dismissive of student views."
+R-0078,Spring 2026,LAW102,Contract Law,F-A07,STU74332,[Student_078],4,4,4,"Standard teaching style, nothing exceptional."
+R-0257,Spring 2026,LAW302,Criminal Law,F-A07,STU46129,[Student_257],3,3,1,Assessment questions went beyond what was covered in lectures.
+R-0238,Autumn 2025,LAW101,Constitutional Law I,F-A02,STU14763,[Student_238],3,4,3,Course content is as per syllabus.
+R-0201,Spring 2026,LAW302,Criminal Law,F-A06,STU93584,[Student_201],2,3,1,"More moot court practice would help, too much theory right now."
+R-0192,Autumn 2025,LAW201,Corporate Law II,F-A05,STU81496,[Student_192],5,5,4,Excellent pace and clear handouts every week.
+R-0229,Spring 2026,LAW202,Law of Corporate Governance,F-A07,STU98587,[Student_229],2,3,2,Feedback on assignments takes very long to arrive.
+R-0293,Autumn 2025,LAW202,Law of Corporate Governance,F-A03,STU20082,[Student_293],5,5,5,Slides are well-structured and useful for revision.
+R-0286,Spring 2026,LAW201,Corporate Law II,F-A08,STU99088,[Student_286],5,5,4,"Encourages class discussion, never dismissive of student views."
+R-0266,Autumn 2025,LAW201,Corporate Law II,F-A02,STU87015,[Student_266],4,4,4,Assessment pattern is fair and reflects what was taught.
+R-0262,Spring 2026,LAW101,Constitutional Law I,F-A03,STU78742,[Student_262],5,5,5,"Explains concepts with real case examples, very engaging."
+R-0114,Spring 2026,LAW102,Contract Law,F-A02,STU40433,[Student_114],3,3,1,Assessment questions went beyond what was covered in lectures.
+R-0133,Autumn 2025,LAW102,Contract Law,F-A05,STU41186,[Student_133],5,4,4,"Explains concepts with real case examples, very engaging."
+R-0051,Spring 2026,LAW202,Law of Corporate Governance,F-A01,STU67954,[Student_051],5,5,5,Assessment pattern is fair and reflects what was taught.
+R-0006,Autumn 2025,LAW201,Corporate Law II,F-A06,STU40512,[Student_006],2,3,1,Lectures feel rushed; hard to take notes and understand together.
+R-0055,Spring 2026,LAW301,Jurisprudence,F-A04,STU65724,[Student_055],3,3,3,"Standard teaching style, nothing exceptional."
+R-0221,Spring 2026,LAW201,Corporate Law II,F-A06,STU15938,[Student_221],3,3,1,Assessment questions went beyond what was covered in lectures.
+R-0170,Autumn 2025,LAW301,Jurisprudence,F-A06,STU35166,[Student_170],5,5,5,Moot court practice sessions are the highlight of the course.
+R-0205,Spring 2026,LAW101,Constitutional Law I,F-A08,STU87042,[Student_205],2,3,3,Would appreciate more examples from Indian jurisdiction.
+R-0289,Autumn 2025,LAW101,Constitutional Law I,F-A02,STU27367,[Student_289],2,3,1,Feedback on assignments takes very long to arrive.
+R-0023,Spring 2026,LAW301,Jurisprudence,F-A03,STU22704,[Student_023],5,4,3,Uses current case law to explain abstract principles - super helpful.
+R-0086,Autumn 2025,LAW202,Law of Corporate Governance,F-A08,STU49824,[Student_086],2,2,3,Lectures feel rushed; hard to take notes and understand together.
+R-0182,Autumn 2025,LAW102,Contract Law,F-A05,STU75513,[Student_182],5,4,3,Assessment pattern is fair and reflects what was taught.
+R-0128,Spring 2026,LAW302,Criminal Law,F-A02,STU38477,[Student_128],1,3,2,Slides are text-heavy and hard to read from the back rows.
